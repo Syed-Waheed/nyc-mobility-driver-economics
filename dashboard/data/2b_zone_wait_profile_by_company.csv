@@ -1,0 +1,520 @@
+company,PULocationID,pu_borough,pu_zone,n_scoped,n_valid,n_excluded_negative_wait,pct_excluded,p50_min,p75_min,p90_min,p95_min,sample_tier
+Lyft,168,Bronx,Mott Haven/Port Morris,27393,26897,496,1.811,4.4,6.1,8.4,10.07,3_adequate
+Lyft,69,Bronx,East Concourse/Concourse Village,21208,20789,419,1.976,4.533,6.267,8.633,10.483,3_adequate
+Lyft,247,Bronx,West Concourse,19746,19533,213,1.079,4.617,6.383,8.65,10.573,3_adequate
+Lyft,254,Bronx,Williamsbridge/Olinville,19560,19123,437,2.234,4.733,6.65,9.167,11.083,3_adequate
+Lyft,213,Bronx,Soundview/Castle Hill,19311,18854,457,2.367,4.867,6.933,9.667,11.633,3_adequate
+Lyft,159,Bronx,Melrose South,18781,18461,320,1.704,4.233,5.85,8.05,9.783,3_adequate
+Lyft,242,Bronx,Van Nest/Morris Park,18477,18207,270,1.461,4.467,6.367,8.69,10.5,3_adequate
+Lyft,78,Bronx,East Tremont,18525,18162,363,1.96,4.45,6.133,8.367,10.133,3_adequate
+Lyft,169,Bronx,Mount Hope,18117,17813,304,1.678,4.5,6.233,8.533,10.333,3_adequate
+Lyft,18,Bronx,Bedford Park,18115,17787,328,1.811,4.317,5.917,8.083,9.717,3_adequate
+Lyft,235,Bronx,University Heights/Morris Heights,17424,17014,410,2.353,4.933,6.95,9.55,11.522,3_adequate
+Lyft,174,Bronx,Norwood,17241,16980,261,1.514,4.117,5.738,7.95,9.617,3_adequate
+Lyft,220,Bronx,Spuyten Duyvil/Kingsbridge,15763,15516,247,1.567,4.15,5.767,7.817,9.388,3_adequate
+Lyft,167,Bronx,Morrisania/Melrose,15539,15242,297,1.911,4.35,5.967,7.967,9.517,3_adequate
+Lyft,259,Bronx,Woodlawn/Wakefield,14724,14483,241,1.637,5.017,6.95,9.35,11.182,3_adequate
+Lyft,47,Bronx,Claremont/Bathgate,14213,13929,284,1.998,4.383,5.983,8.083,9.75,3_adequate
+Lyft,51,Bronx,Co-Op City,14205,13852,353,2.485,5.083,7.033,9.45,11.283,3_adequate
+Lyft,241,Bronx,Van Cortlandt Village,13735,13467,268,1.951,4.333,5.9,8.017,9.683,3_adequate
+Lyft,185,Bronx,Pelham Parkway,13683,13404,279,2.039,4.433,6.167,8.45,10.117,3_adequate
+Lyft,119,Bronx,Highbridge,13699,13371,328,2.394,4.583,6.45,8.833,10.75,3_adequate
+Lyft,126,Bronx,Hunts Point,13449,13243,206,1.532,4.917,6.967,9.717,11.85,3_adequate
+Lyft,208,Bronx,Schuylerville/Edgewater Park,12025,11792,233,1.938,4.767,6.717,9.25,11.117,3_adequate
+Lyft,81,Bronx,Eastchester,11511,11286,225,1.955,4.808,6.746,9.3,11.075,3_adequate
+Lyft,20,Bronx,Belmont,11185,10977,208,1.86,4.15,5.667,7.717,9.417,3_adequate
+Lyft,182,Bronx,Parkchester,10516,10236,280,2.663,4.3,5.95,8.133,10.017,3_adequate
+Lyft,212,Bronx,Soundview/Bruckner,10396,10172,224,2.155,4.35,6.038,8.367,10.133,3_adequate
+Lyft,32,Bronx,Bronxdale,10254,10053,201,1.96,4.2,5.833,8.1,9.783,3_adequate
+Lyft,136,Bronx,Kingsbridge Heights,9762,9563,199,2.039,4.283,6.05,8.35,10.217,3_adequate
+Lyft,250,Bronx,Westchester Village/Unionport,9683,9506,177,1.828,4.267,5.933,8.067,9.667,3_adequate
+Lyft,248,Bronx,West Farms/Bronx River,9466,9245,221,2.335,4.433,6.1,8.493,10.283,3_adequate
+Lyft,200,Bronx,Riverdale/North Riverdale/Fieldston,9398,9174,224,2.383,4.617,6.367,8.667,10.483,3_adequate
+Lyft,3,Bronx,Allerton/Pelham Gardens,9234,9070,164,1.776,4.283,5.933,8.033,9.75,3_adequate
+Lyft,60,Bronx,Crotona Park East,8955,8781,174,1.943,4.65,6.383,8.667,10.4,3_adequate
+Lyft,147,Bronx,Longwood,8418,8280,138,1.639,4.283,5.85,7.85,9.433,3_adequate
+Lyft,94,Bronx,Fordham South,7747,7634,113,1.459,4.35,5.95,8.133,9.789,3_adequate
+Lyft,183,Bronx,Pelham Bay,5170,5088,82,1.586,4.483,6.1,8.172,9.75,3_adequate
+Lyft,240,Bronx,Van Cortlandt Park,2636,2587,49,1.859,4.767,6.55,8.913,10.778,3_adequate
+Lyft,58,Bronx,Country Club,1189,1165,24,2.019,5.883,8.017,10.403,11.957,3_adequate
+Lyft,31,Bronx,Bronx Park,1097,1084,13,1.185,4.583,6.383,8.428,10.367,3_adequate
+Lyft,184,Bronx,Pelham Bay Park,553,551,2,0.362,4.667,6.433,8.733,10.808,2_small
+Lyft,46,Bronx,City Island,560,539,21,3.75,10.033,12.75,16.057,19.505,2_small
+Lyft,59,Bronx,Crotona Park,515,498,17,3.301,4.458,6.267,8.722,10.089,2_small
+Lyft,199,Bronx,Rikers Island,3,3,0,0.0,9.6,12.267,13.867,14.4,1_very_small
+Lyft,61,Brooklyn,Crown Heights North,68132,66879,1253,1.839,4.35,5.983,8.167,9.9,3_adequate
+Lyft,181,Brooklyn,Park Slope,67032,66205,827,1.234,3.45,4.717,6.4,7.8,3_adequate
+Lyft,112,Brooklyn,Greenpoint,54561,54015,546,1.001,3.717,5.217,7.333,9.033,3_adequate
+Lyft,37,Brooklyn,Bushwick South,54605,53831,774,1.417,4.05,5.65,7.8,9.6,3_adequate
+Lyft,255,Brooklyn,Williamsburg (North Side),53742,53231,511,0.951,3.633,5.217,7.4,9.283,3_adequate
+Lyft,76,Brooklyn,East New York,51165,50363,802,1.567,4.517,6.283,8.6,10.25,3_adequate
+Lyft,256,Brooklyn,Williamsburg (South Side),46832,46286,546,1.166,3.8,5.333,7.533,9.433,3_adequate
+Lyft,17,Brooklyn,Bedford,44517,43791,726,1.631,4.333,6.017,8.417,10.417,3_adequate
+Lyft,80,Brooklyn,East Williamsburg,41073,40637,436,1.062,3.85,5.433,7.633,9.45,3_adequate
+Lyft,225,Brooklyn,Stuyvesant Heights,41191,40508,683,1.658,4.283,5.817,7.933,9.667,3_adequate
+Lyft,89,Brooklyn,Flatbush/Ditmas Park,41080,40275,805,1.96,4.1,5.617,7.65,9.283,3_adequate
+Lyft,36,Brooklyn,Bushwick North,40166,39775,391,0.973,4.05,5.633,7.683,9.333,3_adequate
+Lyft,97,Brooklyn,Fort Greene,38352,37772,580,1.512,4.0,5.65,7.833,9.6,3_adequate
+Lyft,188,Brooklyn,Prospect-Lefferts Gardens,37803,37018,785,2.077,4.333,5.967,8.15,9.817,3_adequate
+Lyft,49,Brooklyn,Clinton Hill,36223,35593,630,1.739,3.867,5.383,7.45,9.15,3_adequate
+Lyft,25,Brooklyn,Boerum Hill,35833,35258,575,1.605,4.0,5.567,7.6,9.25,3_adequate
+Lyft,39,Brooklyn,Canarsie,32690,32028,662,2.025,4.783,6.683,9.288,11.327,3_adequate
+Lyft,33,Brooklyn,Brooklyn Heights,29280,28774,506,1.728,3.933,5.483,7.45,9.017,3_adequate
+Lyft,35,Brooklyn,Brownsville,28151,27594,557,1.979,4.75,6.583,8.867,10.633,3_adequate
+Lyft,228,Brooklyn,Sunset Park West,26489,26223,266,1.004,4.183,5.717,7.683,9.2,3_adequate
+Lyft,14,Brooklyn,Bay Ridge,26501,26147,354,1.336,3.8,5.133,6.867,8.312,3_adequate
+Lyft,65,Brooklyn,Downtown Brooklyn/MetroTech,26160,25764,396,1.514,4.35,6.217,8.55,10.383,3_adequate
+Lyft,26,Brooklyn,Borough Park,25940,25692,248,0.956,4.95,6.767,9.017,10.724,3_adequate
+Lyft,189,Brooklyn,Prospect Heights,24008,23626,382,1.591,3.783,5.183,7.017,8.433,3_adequate
+Lyft,91,Brooklyn,Flatlands,23049,22577,472,2.048,4.733,6.617,9.083,11.217,3_adequate
+Lyft,72,Brooklyn,East Flatbush/Remsen Village,22056,21626,430,1.95,4.967,6.85,9.15,10.85,3_adequate
+Lyft,66,Brooklyn,DUMBO/Vinegar Hill,21059,20773,286,1.358,3.883,5.467,7.517,9.117,3_adequate
+Lyft,177,Brooklyn,Ocean Hill,19535,19224,311,1.592,4.65,6.417,8.767,10.733,3_adequate
+Lyft,71,Brooklyn,East Flatbush/Farragut,18990,18508,482,2.538,4.6,6.333,8.7,10.533,3_adequate
+Lyft,62,Brooklyn,Crown Heights South,18674,18256,418,2.238,4.517,6.167,8.383,10.117,3_adequate
+Lyft,22,Brooklyn,Bensonhurst West,15739,15482,257,1.633,4.317,5.783,7.75,9.25,3_adequate
+Lyft,40,Brooklyn,Carroll Gardens,15326,15095,231,1.507,3.783,5.058,6.767,8.017,3_adequate
+Lyft,165,Brooklyn,Midwood,15317,15075,242,1.58,4.05,5.483,7.343,8.772,3_adequate
+Lyft,210,Brooklyn,Sheepshead Bay,15064,14747,317,2.104,4.083,5.558,7.467,8.95,3_adequate
+Lyft,123,Brooklyn,Homecrest,14430,14211,219,1.518,4.033,5.483,7.267,8.667,3_adequate
+Lyft,106,Brooklyn,Gowanus,13624,13487,137,1.006,3.733,5.05,6.6,7.845,3_adequate
+Lyft,85,Brooklyn,Erasmus,13786,13471,315,2.285,4.333,5.983,8.267,10.183,3_adequate
+Lyft,63,Brooklyn,Cypress Hills,13756,13468,288,2.094,4.417,6.067,8.2,9.883,3_adequate
+Lyft,77,Brooklyn,East New York/Pennsylvania Avenue,13366,13166,200,1.496,4.567,6.283,8.483,10.133,3_adequate
+Lyft,21,Brooklyn,Bensonhurst East,12631,12405,226,1.789,4.167,5.633,7.6,9.1,3_adequate
+Lyft,149,Brooklyn,Madison,11489,11354,135,1.175,3.967,5.367,7.1,8.506,3_adequate
+Lyft,155,Brooklyn,Marine Park/Mill Basin,11478,11226,252,2.196,4.9,6.917,9.5,11.433,3_adequate
+Lyft,55,Brooklyn,Coney Island,11549,11187,362,3.134,4.55,6.383,8.867,10.867,3_adequate
+Lyft,227,Brooklyn,Sunset Park East,11048,10928,120,1.086,4.433,6.05,8.167,9.767,3_adequate
+Lyft,133,Brooklyn,Kensington,10631,10470,161,1.514,4.0,5.467,7.3,8.809,3_adequate
+Lyft,52,Brooklyn,Cobble Hill,10362,10196,166,1.602,3.683,4.983,6.775,8.25,3_adequate
+Lyft,257,Brooklyn,Windsor Terrace,10346,10195,151,1.46,3.9,5.267,7.0,8.3,3_adequate
+Lyft,217,Brooklyn,South Williamsburg,9952,9858,94,0.945,4.783,6.733,9.322,11.367,3_adequate
+Lyft,195,Brooklyn,Red Hook,9934,9775,159,1.601,4.367,6.058,8.283,10.033,3_adequate
+Lyft,29,Brooklyn,Brighton Beach,9397,9212,185,1.969,4.033,5.55,7.448,9.033,3_adequate
+Lyft,67,Brooklyn,Dyker Heights,7944,7801,143,1.8,4.283,5.85,7.85,9.4,3_adequate
+Lyft,108,Brooklyn,Gravesend,6658,6535,123,1.847,4.217,5.65,7.533,8.888,3_adequate
+Lyft,222,Brooklyn,Starrett City,5463,5188,275,5.034,5.15,7.183,9.767,11.7,3_adequate
+Lyft,11,Brooklyn,Bath Beach,5008,4911,97,1.937,4.15,5.583,7.567,8.967,3_adequate
+Lyft,34,Brooklyn,Brooklyn Navy Yard,4778,4743,35,0.733,4.417,6.35,9.2,11.332,3_adequate
+Lyft,178,Brooklyn,Ocean Parkway South,4723,4651,72,1.524,4.2,5.617,7.333,8.633,3_adequate
+Lyft,150,Brooklyn,Manhattan Beach,4247,4199,48,1.13,4.217,5.883,7.917,9.522,3_adequate
+Lyft,54,Brooklyn,Columbia Street,4228,4174,54,1.277,3.85,5.283,7.25,8.667,3_adequate
+Lyft,190,Brooklyn,Prospect Park,2708,2677,31,1.145,3.967,5.55,7.567,8.987,3_adequate
+Lyft,154,Brooklyn,Marine Park/Floyd Bennett Field,201,200,1,0.498,5.767,8.3,11.817,13.375,2_small
+Lyft,111,Brooklyn,Green-Wood Cemetery,111,109,2,1.802,4.2,5.45,6.617,8.323,2_small
+Lyft,79,Manhattan,East Village,72542,71724,818,1.128,3.65,5.183,7.233,8.897,3_adequate
+Lyft,231,Manhattan,TriBeCa/Civic Center,60162,59540,622,1.034,3.7,5.05,6.717,8.033,3_adequate
+Lyft,68,Manhattan,East Chelsea,59838,58985,853,1.426,3.6,5.25,7.2,8.833,3_adequate
+Lyft,246,Manhattan,West Chelsea/Hudson Yards,58097,57582,515,0.886,3.933,5.667,7.85,9.567,3_adequate
+Lyft,48,Manhattan,Clinton East,57551,56613,938,1.63,3.6,5.167,7.117,8.717,3_adequate
+Lyft,234,Manhattan,Union Sq,56945,56440,505,0.887,3.767,5.367,7.25,8.683,3_adequate
+Lyft,148,Manhattan,Lower East Side,56223,55716,507,0.902,3.867,5.6,7.883,9.7,3_adequate
+Lyft,230,Manhattan,Times Sq/Theatre District,56951,55611,1340,2.353,4.017,6.267,9.217,11.5,3_adequate
+Lyft,161,Manhattan,Midtown Center,52346,51692,654,1.249,4.15,6.15,8.733,10.65,3_adequate
+Lyft,164,Manhattan,Midtown South,51645,50895,750,1.452,3.817,5.517,7.583,9.2,3_adequate
+Lyft,170,Manhattan,Murray Hill,51322,50511,811,1.58,3.883,5.4,7.383,8.833,3_adequate
+Lyft,249,Manhattan,West Village,50748,50387,361,0.711,3.717,5.267,7.167,8.65,3_adequate
+Lyft,42,Manhattan,Central Harlem North,49589,48806,783,1.579,4.267,5.867,8.1,9.863,3_adequate
+Lyft,107,Manhattan,Gramercy,44441,43807,634,1.427,3.667,5.067,6.783,8.217,3_adequate
+Lyft,140,Manhattan,Lenox Hill East,40257,39496,761,1.89,3.9,5.433,7.467,9.067,3_adequate
+Lyft,163,Manhattan,Midtown North,40115,39481,634,1.58,3.5,5.067,7.017,8.45,3_adequate
+Lyft,236,Manhattan,Upper East Side North,39333,38648,685,1.742,3.8,5.1,6.75,8.2,3_adequate
+Lyft,244,Manhattan,Washington Heights South,38854,38185,669,1.722,3.817,5.233,7.233,8.95,3_adequate
+Lyft,237,Manhattan,Upper East Side South,38574,38142,432,1.12,3.567,4.817,6.283,7.417,3_adequate
+Lyft,141,Manhattan,Lenox Hill West,38594,37874,720,1.866,3.7,5.05,6.667,8.0,3_adequate
+Lyft,41,Manhattan,Central Harlem,38252,37722,530,1.386,3.95,5.367,7.25,8.75,3_adequate
+Lyft,239,Manhattan,Upper West Side South,38209,37379,830,2.172,3.683,5.0,6.65,8.083,3_adequate
+Lyft,142,Manhattan,Lincoln Square East,37899,37206,693,1.829,3.717,5.183,7.0,8.417,3_adequate
+Lyft,162,Manhattan,Midtown East,37451,36915,536,1.431,3.683,5.2,7.05,8.467,3_adequate
+Lyft,144,Manhattan,Little Italy/NoLiTa,37348,36774,574,1.537,3.867,5.4,7.317,8.833,3_adequate
+Lyft,74,Manhattan,East Harlem North,36946,36417,529,1.432,4.333,5.933,8.017,9.783,3_adequate
+Lyft,90,Manhattan,Flatiron,36323,35825,498,1.371,3.467,4.9,6.583,7.8,3_adequate
+Lyft,75,Manhattan,East Harlem South,35738,34996,742,2.076,4.117,5.667,7.733,9.454,3_adequate
+Lyft,114,Manhattan,Greenwich Village South,34378,34130,248,0.721,3.75,5.4,7.5,9.133,3_adequate
+Lyft,229,Manhattan,Sutton Place/Turtle Bay North,34202,33597,605,1.769,3.55,4.783,6.183,7.233,3_adequate
+Lyft,87,Manhattan,Financial District North,33164,32595,569,1.716,3.85,5.333,7.25,8.75,3_adequate
+Lyft,137,Manhattan,Kips Bay,33025,32497,528,1.599,4.033,5.517,7.35,8.8,3_adequate
+Lyft,263,Manhattan,Yorkville West,33247,32474,773,2.325,3.883,5.279,7.112,8.683,3_adequate
+Lyft,186,Manhattan,Penn Station/Madison Sq West,32780,32400,380,1.159,3.467,5.383,7.833,9.8,3_adequate
+Lyft,50,Manhattan,Clinton West,32147,31717,430,1.338,3.8,5.167,6.85,8.15,3_adequate
+Lyft,113,Manhattan,Greenwich Village North,31700,31233,467,1.473,3.65,5.15,6.933,8.367,3_adequate
+Lyft,158,Manhattan,Meatpacking/West Village West,31436,31106,330,1.05,3.667,5.196,7.083,8.45,3_adequate
+Lyft,143,Manhattan,Lincoln Square West,31897,31095,802,2.514,3.7,5.167,7.117,8.617,3_adequate
+Lyft,238,Manhattan,Upper West Side North,31840,31034,806,2.531,3.8,5.167,6.95,8.45,3_adequate
+Lyft,233,Manhattan,UN/Turtle Bay South,30722,30133,589,1.917,3.883,5.283,7.013,8.35,3_adequate
+Lyft,211,Manhattan,SoHo,28768,28599,169,0.587,3.617,5.05,6.833,8.185,3_adequate
+Lyft,100,Manhattan,Garment District,25601,25197,404,1.578,3.917,5.9,8.4,10.35,3_adequate
+Lyft,232,Manhattan,Two Bridges/Seward Park,25081,24609,472,1.882,4.767,6.633,9.067,10.933,3_adequate
+Lyft,13,Manhattan,Battery Park City,24126,23751,375,1.554,4.017,5.783,8.0,9.65,3_adequate
+Lyft,243,Manhattan,Washington Heights North,24049,23530,519,2.158,3.983,5.433,7.317,8.867,3_adequate
+Lyft,116,Manhattan,Hamilton Heights,23722,23330,392,1.652,4.05,5.5,7.4,9.033,3_adequate
+Lyft,262,Manhattan,Yorkville East,24038,23317,721,2.999,4.167,5.75,8.05,9.867,3_adequate
+Lyft,166,Manhattan,Morningside Heights,20981,20594,387,1.845,3.6,4.9,6.533,7.839,3_adequate
+Lyft,125,Manhattan,Hudson Sq,18973,18774,199,1.049,3.733,5.117,6.817,8.2,3_adequate
+Lyft,261,Manhattan,World Trade Center,17862,17609,253,1.416,4.2,5.917,8.05,9.767,3_adequate
+Lyft,151,Manhattan,Manhattan Valley,17470,16992,478,2.736,3.867,5.233,6.883,8.124,3_adequate
+Lyft,4,Manhattan,Alphabet City,17210,16769,441,2.562,4.367,6.033,8.317,10.167,3_adequate
+Lyft,45,Manhattan,Chinatown,15882,15741,141,0.888,4.233,5.817,7.867,9.517,3_adequate
+Lyft,127,Manhattan,Inwood,14901,14611,290,1.946,3.65,5.1,7.1,8.85,3_adequate
+Lyft,88,Manhattan,Financial District South,12972,12802,170,1.311,4.017,5.717,7.967,9.632,3_adequate
+Lyft,209,Manhattan,Seaport,12660,12501,159,1.256,4.133,5.617,7.433,9.0,3_adequate
+Lyft,224,Manhattan,Stuy Town/Peter Cooper Village,12735,12319,416,3.267,4.617,6.367,8.6,10.417,3_adequate
+Lyft,152,Manhattan,Manhattanville,11064,10880,184,1.663,4.067,5.517,7.467,9.0,3_adequate
+Lyft,24,Manhattan,Bloomingdale,7814,7595,219,2.803,3.8,5.1,6.783,8.038,3_adequate
+Lyft,43,Manhattan,Central Park,6661,6613,48,0.721,3.7,5.233,6.983,8.4,3_adequate
+Lyft,153,Manhattan,Marble Hill,3513,3453,60,1.708,4.1,5.817,7.933,9.473,3_adequate
+Lyft,202,Manhattan,Roosevelt Island,2964,2852,112,3.779,5.633,7.933,10.667,12.683,3_adequate
+Lyft,128,Manhattan,Inwood Hill Park,1678,1652,26,1.549,3.833,5.238,6.932,8.383,3_adequate
+Lyft,194,Manhattan,Randalls Island,726,683,43,5.923,7.267,10.408,14.11,17.162,2_small
+Lyft,12,Manhattan,Battery Park,544,541,3,0.551,4.033,6.017,8.467,9.75,2_small
+Lyft,120,Manhattan,Highbridge Park,281,275,6,2.135,4.25,5.725,7.897,9.388,2_small
+Lyft,105,Manhattan,Governor's Island/Ellis Island/Liberty Island,4,4,0,0.0,4.25,6.096,8.668,9.526,1_very_small
+Lyft,138,Queens,LaGuardia Airport,90325,90180,145,0.161,2.5,6.667,10.183,13.067,3_adequate
+Lyft,132,Queens,JFK Airport,71876,71715,161,0.224,6.8,10.267,13.633,16.7,3_adequate
+Lyft,7,Queens,Astoria,51100,50635,465,0.91,3.467,4.65,6.183,7.45,3_adequate
+Lyft,145,Queens,Long Island City/Hunters Point,40865,40378,487,1.192,3.567,4.9,6.617,8.033,3_adequate
+Lyft,129,Queens,Jackson Heights,37621,37076,545,1.449,4.1,5.65,7.683,9.283,3_adequate
+Lyft,130,Queens,Jamaica,35800,35331,469,1.31,4.217,6.033,8.45,10.4,3_adequate
+Lyft,95,Queens,Forest Hills,34510,33988,522,1.513,4.45,6.15,8.233,9.867,3_adequate
+Lyft,226,Queens,Sunnyside,34053,33702,351,1.031,4.033,5.45,7.333,8.767,3_adequate
+Lyft,82,Queens,Elmhurst,32054,31685,369,1.151,4.217,5.867,7.993,9.617,3_adequate
+Lyft,198,Queens,Ridgewood,30714,30327,387,1.26,4.233,5.8,7.883,9.445,3_adequate
+Lyft,216,Queens,South Ozone Park,27181,26671,510,1.876,4.2,5.917,8.267,10.1,3_adequate
+Lyft,223,Queens,Steinway,25637,25341,296,1.155,3.567,4.817,6.4,7.75,3_adequate
+Lyft,260,Queens,Woodside,22171,21986,185,0.834,3.783,5.133,6.783,8.267,3_adequate
+Lyft,205,Queens,Saint Albans,21876,21458,418,1.911,4.917,6.983,9.6,11.45,3_adequate
+Lyft,197,Queens,Richmond Hill,21614,21250,364,1.684,4.4,6.117,8.433,10.2,3_adequate
+Lyft,92,Queens,Flushing,20558,20189,369,1.795,4.5,6.533,9.317,11.55,3_adequate
+Lyft,179,Queens,Old Astoria,18964,18731,233,1.229,3.833,5.208,6.983,8.35,3_adequate
+Lyft,215,Queens,South Jamaica,16695,16341,354,2.12,4.617,6.517,9.017,10.967,3_adequate
+Lyft,10,Queens,Baisley Park,16196,15863,333,2.056,4.4,6.217,8.697,10.65,3_adequate
+Lyft,157,Queens,Maspeth,15370,15167,203,1.321,4.683,6.558,8.967,10.712,3_adequate
+Lyft,191,Queens,Queens Village,14723,14420,303,2.058,4.5,6.15,8.383,10.183,3_adequate
+Lyft,258,Queens,Woodhaven,14196,13955,241,1.698,4.733,6.55,8.817,10.683,3_adequate
+Lyft,56,Queens,Corona,13226,12923,303,2.291,4.467,6.167,8.333,10.017,3_adequate
+Lyft,196,Queens,Rego Park,13032,12840,192,1.473,4.55,6.283,8.367,10.017,3_adequate
+Lyft,146,Queens,Long Island City/Queens Plaza,12472,12319,153,1.227,3.45,4.667,6.27,7.7,3_adequate
+Lyft,70,Queens,East Elmhurst,12456,12271,185,1.485,3.483,4.8,6.583,8.192,3_adequate
+Lyft,134,Queens,Kew Gardens,11592,11393,199,1.717,4.133,5.783,7.983,9.717,3_adequate
+Lyft,102,Queens,Glendale,11307,11150,157,1.389,4.783,6.75,9.283,11.276,3_adequate
+Lyft,28,Queens,Briarwood/Jamaica Hills,11315,11122,193,1.706,4.267,5.817,7.882,9.616,3_adequate
+Lyft,83,Queens,Elmhurst/Maspeth,10884,10772,112,1.029,4.233,5.837,7.883,9.517,3_adequate
+Lyft,218,Queens,Springfield Gardens North,10884,10663,221,2.031,4.783,6.683,9.033,10.817,3_adequate
+Lyft,173,Queens,North Corona,10777,10637,140,1.299,4.733,6.517,8.883,10.767,3_adequate
+Lyft,121,Queens,Hillcrest/Pomonok,10693,10476,217,2.029,4.483,6.117,8.283,9.804,3_adequate
+Lyft,160,Queens,Middle Village,10327,10148,179,1.733,4.8,6.567,8.733,10.517,3_adequate
+Lyft,203,Queens,Rosedale,10090,9936,154,1.526,5.417,7.5,10.033,11.867,3_adequate
+Lyft,86,Queens,Far Rockaway,10181,9862,319,3.133,6.533,9.75,14.398,17.817,3_adequate
+Lyft,139,Queens,Laurelton,9342,9207,135,1.445,4.767,6.533,8.867,10.533,3_adequate
+Lyft,219,Queens,Springfield Gardens South,9134,8973,161,1.763,4.933,6.717,8.95,10.75,3_adequate
+Lyft,16,Queens,Bayside,9012,8836,176,1.953,4.333,6.067,8.283,9.987,3_adequate
+Lyft,135,Queens,Kew Gardens Hills,8789,8603,186,2.116,4.367,6.0,8.113,9.517,3_adequate
+Lyft,171,Queens,Murray Hill-Queens,8191,8029,162,1.978,4.2,5.7,7.7,9.233,3_adequate
+Lyft,180,Queens,Ozone Park,7797,7693,104,1.334,4.5,6.217,8.397,9.983,3_adequate
+Lyft,193,Queens,Queensbridge/Ravenswood,7656,7515,141,1.842,4.05,5.617,7.833,9.833,3_adequate
+Lyft,131,Queens,Jamaica Estates,7229,7022,207,2.863,4.367,6.083,8.298,10.15,3_adequate
+Lyft,124,Queens,Howard Beach,6849,6710,139,2.029,5.45,7.617,10.183,12.05,3_adequate
+Lyft,192,Queens,Queensboro Hill,6647,6528,119,1.79,4.1,5.667,7.683,9.277,3_adequate
+Lyft,117,Queens,Hammels/Arverne,6686,6467,219,3.276,6.933,10.533,15.013,18.383,3_adequate
+Lyft,122,Queens,Hollis,6011,5908,103,1.714,4.6,6.5,9.167,11.244,3_adequate
+Lyft,38,Queens,Cambria Heights,5931,5794,137,2.31,4.625,6.567,9.228,11.078,3_adequate
+Lyft,53,Queens,College Point,5743,5640,103,1.793,5.033,7.183,10.133,12.151,3_adequate
+Lyft,252,Queens,Whitestone,5574,5465,109,1.956,5.167,7.1,9.467,10.997,3_adequate
+Lyft,98,Queens,Fresh Meadows,4457,4386,71,1.593,4.633,6.4,8.858,10.425,3_adequate
+Lyft,9,Queens,Auburndale,4418,4340,78,1.766,4.3,5.883,7.967,9.634,3_adequate
+Lyft,73,Queens,East Flushing,4322,4265,57,1.319,4.417,5.917,7.867,9.447,3_adequate
+Lyft,101,Queens,Glen Oaks,4183,4077,106,2.534,4.75,6.817,9.357,11.483,3_adequate
+Lyft,19,Queens,Bellerose,3987,3895,92,2.307,4.817,6.517,8.8,10.6,3_adequate
+Lyft,207,Queens,Saint Michaels Cemetery/Woodside,3203,3192,11,0.343,3.867,5.467,7.28,8.674,3_adequate
+Lyft,175,Queens,Oakland Gardens,3271,3134,137,4.188,4.8,6.567,8.917,10.672,3_adequate
+Lyft,15,Queens,Bay Terrace/Fort Totten,3034,2948,86,2.835,5.417,7.5,10.088,12.188,3_adequate
+Lyft,64,Queens,Douglaston,2784,2675,109,3.915,5.733,7.95,10.727,12.55,3_adequate
+Lyft,201,Queens,Rockaway Park,2007,1888,119,5.929,6.808,11.15,15.8,19.038,3_adequate
+Lyft,93,Queens,Flushing Meadows-Corona Park,1330,1310,20,1.504,4.825,6.617,9.152,10.852,3_adequate
+Lyft,57,Queens,Corona,794,774,20,2.519,4.633,6.308,8.185,10.078,2_small
+Lyft,96,Queens,Forest Park/Highland Park,461,457,4,0.868,4.95,6.817,9.307,10.903,2_small
+Lyft,30,Queens,Broad Channel,130,129,1,0.769,9.3,14.117,19.833,23.127,2_small
+Lyft,8,Queens,Astoria Park,115,114,1,0.87,3.8,4.833,6.037,7.227,2_small
+Lyft,27,Queens,Breezy Point/Fort Tilden/Riis Beach,96,88,8,8.333,11.983,15.988,21.227,24.038,1_very_small
+Lyft,253,Queens,Willets Point,86,86,0,0.0,5.383,7.417,9.283,11.971,1_very_small
+Lyft,2,Queens,Jamaica Bay,5,5,0,0.0,18.5,18.85,20.86,21.53,1_very_small
+Lyft,206,Staten Island,Saint George/New Brighton,9988,9828,160,1.602,4.733,6.95,9.867,12.144,3_adequate
+Lyft,221,Staten Island,Stapleton,7163,6996,167,2.331,5.0,7.154,9.992,12.183,3_adequate
+Lyft,23,Staten Island,Bloomfield/Emerson Hill,6630,6494,136,2.051,5.25,7.45,10.278,12.617,3_adequate
+Lyft,156,Staten Island,Mariners Harbor,6179,6037,142,2.298,4.6,6.283,8.6,10.21,3_adequate
+Lyft,118,Staten Island,Heartland Village/Todt Hill,4345,4264,81,1.864,5.183,7.417,10.4,12.545,3_adequate
+Lyft,115,Staten Island,Grymes Hill/Clifton,4046,3962,84,2.076,5.45,7.533,10.33,12.466,3_adequate
+Lyft,214,Staten Island,South Beach/Dongan Hills,3884,3778,106,2.729,4.783,6.733,9.45,11.55,3_adequate
+Lyft,245,Staten Island,West Brighton,3794,3697,97,2.557,5.283,7.45,10.217,12.537,3_adequate
+Lyft,251,Staten Island,Westerleigh,3505,3438,67,1.912,4.983,6.829,9.333,11.105,3_adequate
+Lyft,187,Staten Island,Port Richmond,3357,3315,42,1.251,4.967,6.933,9.283,11.282,3_adequate
+Lyft,109,Staten Island,Great Kills,2788,2711,77,2.762,5.95,8.425,11.917,14.767,3_adequate
+Lyft,172,Staten Island,New Dorp/Midland Beach,2694,2601,93,3.452,5.333,7.55,10.8,13.433,3_adequate
+Lyft,6,Staten Island,Arrochar/Fort Wadsworth,2444,2373,71,2.905,4.983,6.967,9.5,11.647,3_adequate
+Lyft,84,Staten Island,Eltingville/Annadale/Prince's Bay,1832,1772,60,3.275,6.242,8.8,12.083,14.765,3_adequate
+Lyft,176,Staten Island,Oakwood,1529,1474,55,3.597,5.8,8.413,11.4,14.228,3_adequate
+Lyft,44,Staten Island,Charleston/Tottenville,1492,1428,64,4.29,6.358,9.4,13.705,16.885,3_adequate
+Lyft,5,Staten Island,Arden Heights,1191,1133,58,4.87,6.15,8.4,11.163,13.207,3_adequate
+Lyft,204,Staten Island,Rossville/Woodrow,921,864,57,6.189,5.883,8.471,11.478,14.0,2_small
+Lyft,99,Staten Island,Freshkills Park,98,97,1,1.02,6.4,8.533,11.693,13.467,1_very_small
+Lyft,110,Staten Island,Great Kills Park,2,2,0,0.0,8.908,11.521,13.088,13.611,1_very_small
+Uber,168,Bronx,Mott Haven/Port Morris,102537,101776,761,0.742,4.0,5.567,7.933,10.117,3_adequate
+Uber,69,Bronx,East Concourse/Concourse Village,83606,82992,614,0.734,3.95,5.483,7.85,10.017,3_adequate
+Uber,254,Bronx,Williamsbridge/Olinville,81544,80907,637,0.781,4.433,6.333,9.15,11.45,3_adequate
+Uber,247,Bronx,West Concourse,80227,79765,462,0.576,4.0,5.517,7.75,9.767,3_adequate
+Uber,18,Bronx,Bedford Park,79429,78922,507,0.638,3.85,5.35,7.6,9.633,3_adequate
+Uber,213,Bronx,Soundview/Castle Hill,79604,78904,700,0.879,4.317,6.167,8.867,11.1,3_adequate
+Uber,169,Bronx,Mount Hope,77946,77407,539,0.692,3.85,5.333,7.55,9.633,3_adequate
+Uber,159,Bronx,Melrose South,74367,73869,498,0.67,3.8,5.267,7.4,9.433,3_adequate
+Uber,174,Bronx,Norwood,72328,71925,403,0.557,3.683,5.233,7.617,9.733,3_adequate
+Uber,78,Bronx,East Tremont,72171,71613,558,0.773,3.917,5.417,7.85,9.967,3_adequate
+Uber,235,Bronx,University Heights/Morris Heights,68799,68198,601,0.874,4.167,5.8,8.233,10.417,3_adequate
+Uber,242,Bronx,Van Nest/Morris Park,64455,63949,506,0.785,3.867,5.6,8.033,10.083,3_adequate
+Uber,51,Bronx,Co-Op City,62509,61989,520,0.832,4.483,6.433,9.05,11.283,3_adequate
+Uber,241,Bronx,Van Cortlandt Village,61958,61515,443,0.715,3.883,5.317,7.45,9.355,3_adequate
+Uber,167,Bronx,Morrisania/Melrose,61134,60629,505,0.826,3.95,5.35,7.433,9.367,3_adequate
+Uber,47,Bronx,Claremont/Bathgate,55749,55369,380,0.682,3.9,5.35,7.467,9.467,3_adequate
+Uber,220,Bronx,Spuyten Duyvil/Kingsbridge,55254,54887,367,0.664,3.683,5.183,7.283,9.117,3_adequate
+Uber,119,Bronx,Highbridge,55219,54754,465,0.842,3.95,5.4,7.667,9.8,3_adequate
+Uber,185,Bronx,Pelham Parkway,54397,54059,338,0.621,3.967,5.667,8.217,10.3,3_adequate
+Uber,259,Bronx,Woodlawn/Wakefield,53790,53325,465,0.864,4.667,6.733,9.783,12.167,3_adequate
+Uber,208,Bronx,Schuylerville/Edgewater Park,52398,51802,596,1.137,4.133,5.983,8.683,10.883,3_adequate
+Uber,126,Bronx,Hunts Point,50723,50409,314,0.619,4.233,6.05,8.683,10.9,3_adequate
+Uber,20,Bronx,Belmont,48758,48433,325,0.667,3.667,5.117,7.3,9.39,3_adequate
+Uber,81,Bronx,Eastchester,45879,45539,340,0.741,4.517,6.5,9.317,11.602,3_adequate
+Uber,212,Bronx,Soundview/Bruckner,45029,44666,363,0.806,3.95,5.583,8.1,10.283,3_adequate
+Uber,182,Bronx,Parkchester,44433,44062,371,0.835,3.867,5.433,7.8,9.833,3_adequate
+Uber,136,Bronx,Kingsbridge Heights,44037,43707,330,0.749,3.75,5.25,7.45,9.495,3_adequate
+Uber,250,Bronx,Westchester Village/Unionport,41498,41163,335,0.807,3.833,5.367,7.733,9.633,3_adequate
+Uber,32,Bronx,Bronxdale,41142,40799,343,0.834,3.967,5.683,8.35,10.433,3_adequate
+Uber,248,Bronx,West Farms/Bronx River,40710,40320,390,0.958,4.0,5.7,8.333,10.6,3_adequate
+Uber,60,Bronx,Crotona Park East,37883,37564,319,0.842,4.233,5.933,8.367,10.517,3_adequate
+Uber,3,Bronx,Allerton/Pelham Gardens,37123,36821,302,0.814,3.967,5.683,8.167,10.2,3_adequate
+Uber,94,Bronx,Fordham South,35445,35248,197,0.556,3.867,5.35,7.5,9.45,3_adequate
+Uber,147,Bronx,Longwood,34754,34458,296,0.852,3.867,5.25,7.333,9.3,3_adequate
+Uber,200,Bronx,Riverdale/North Riverdale/Fieldston,32404,32036,368,1.136,4.233,5.917,8.417,10.55,3_adequate
+Uber,183,Bronx,Pelham Bay,21045,20829,216,1.026,3.933,5.583,7.953,9.95,3_adequate
+Uber,240,Bronx,Van Cortlandt Park,10756,10691,65,0.604,4.433,6.4,9.167,11.383,3_adequate
+Uber,58,Bronx,Country Club,5421,5348,73,1.347,5.067,7.083,9.833,12.183,3_adequate
+Uber,31,Bronx,Bronx Park,5052,5022,30,0.594,4.117,5.833,8.55,10.732,3_adequate
+Uber,184,Bronx,Pelham Bay Park,2877,2871,6,0.209,4.1,5.85,8.633,10.908,3_adequate
+Uber,46,Bronx,City Island,2343,2264,79,3.372,7.533,11.254,15.023,17.414,3_adequate
+Uber,59,Bronx,Crotona Park,1643,1632,11,0.67,4.117,5.538,7.862,9.791,3_adequate
+Uber,199,Bronx,Rikers Island,1,1,0,0.0,14.033,14.033,14.033,14.033,1_very_small
+Uber,61,Brooklyn,Crown Heights North,197261,195728,1533,0.777,4.067,5.733,8.233,10.5,3_adequate
+Uber,76,Brooklyn,East New York,166883,165667,1216,0.729,4.183,5.867,8.35,10.45,3_adequate
+Uber,37,Brooklyn,Bushwick South,163748,162694,1054,0.644,3.783,5.433,7.967,10.3,3_adequate
+Uber,255,Brooklyn,Williamsburg (North Side),142059,141472,587,0.413,3.25,4.867,7.267,9.183,3_adequate
+Uber,181,Brooklyn,Park Slope,138980,138161,819,0.589,3.283,4.7,6.75,8.683,3_adequate
+Uber,112,Brooklyn,Greenpoint,136392,135783,609,0.447,3.4,4.85,6.983,8.833,3_adequate
+Uber,17,Brooklyn,Bedford,127157,126288,869,0.683,3.967,5.617,8.033,10.2,3_adequate
+Uber,89,Brooklyn,Flatbush/Ditmas Park,126348,125329,1019,0.807,3.9,5.45,7.7,9.683,3_adequate
+Uber,256,Brooklyn,Williamsburg (South Side),123277,122590,687,0.557,3.483,5.05,7.367,9.4,3_adequate
+Uber,188,Brooklyn,Prospect-Lefferts Gardens,121201,120166,1035,0.854,4.15,5.867,8.3,10.45,3_adequate
+Uber,225,Brooklyn,Stuyvesant Heights,120838,119868,970,0.803,4.033,5.617,8.017,10.217,3_adequate
+Uber,36,Brooklyn,Bushwick North,120482,119843,639,0.53,3.7,5.317,7.9,10.2,3_adequate
+Uber,39,Brooklyn,Canarsie,116489,115389,1100,0.944,4.467,6.267,8.87,11.05,3_adequate
+Uber,80,Brooklyn,East Williamsburg,107967,107418,549,0.508,3.533,5.1,7.617,9.8,3_adequate
+Uber,26,Brooklyn,Borough Park,95010,94448,562,0.592,4.3,5.883,8.1,10.117,3_adequate
+Uber,35,Brooklyn,Brownsville,95212,94330,882,0.926,4.583,6.4,9.067,11.35,3_adequate
+Uber,97,Brooklyn,Fort Greene,92691,92150,541,0.584,3.733,5.417,7.817,9.883,3_adequate
+Uber,14,Brooklyn,Bay Ridge,91239,90624,615,0.674,3.617,5.017,7.028,8.9,3_adequate
+Uber,49,Brooklyn,Clinton Hill,87713,87165,548,0.625,3.633,5.15,7.383,9.383,3_adequate
+Uber,25,Brooklyn,Boerum Hill,82175,81529,646,0.786,3.667,5.283,7.6,9.567,3_adequate
+Uber,72,Brooklyn,East Flatbush/Remsen Village,80339,79691,648,0.807,4.633,6.533,9.233,11.583,3_adequate
+Uber,91,Brooklyn,Flatlands,78058,77437,621,0.796,4.233,5.917,8.417,10.6,3_adequate
+Uber,228,Brooklyn,Sunset Park West,75869,75468,401,0.529,4.217,5.9,8.217,10.217,3_adequate
+Uber,71,Brooklyn,East Flatbush/Farragut,69755,69164,591,0.847,4.3,6.033,8.617,10.8,3_adequate
+Uber,33,Brooklyn,Brooklyn Heights,66270,65720,550,0.83,3.517,4.967,7.067,8.75,3_adequate
+Uber,65,Brooklyn,Downtown Brooklyn/MetroTech,64894,64322,572,0.881,3.867,5.717,8.233,10.3,3_adequate
+Uber,177,Brooklyn,Ocean Hill,64820,64308,512,0.79,4.383,6.133,8.833,11.2,3_adequate
+Uber,22,Brooklyn,Bensonhurst West,57998,57546,452,0.779,3.85,5.3,7.45,9.55,3_adequate
+Uber,62,Brooklyn,Crown Heights South,57163,56704,459,0.803,4.183,5.833,8.233,10.383,3_adequate
+Uber,189,Brooklyn,Prospect Heights,53092,52785,307,0.578,3.55,5.033,7.167,9.033,3_adequate
+Uber,66,Brooklyn,DUMBO/Vinegar Hill,51764,51520,244,0.471,3.633,5.2,7.45,9.333,3_adequate
+Uber,210,Brooklyn,Sheepshead Bay,51816,51353,463,0.894,3.75,5.25,7.533,9.483,3_adequate
+Uber,63,Brooklyn,Cypress Hills,51323,50809,514,1.002,3.983,5.583,8.05,10.167,3_adequate
+Uber,165,Brooklyn,Midwood,51145,50564,581,1.136,3.7,5.083,7.083,8.983,3_adequate
+Uber,85,Brooklyn,Erasmus,50247,49914,333,0.663,4.167,5.817,8.233,10.283,3_adequate
+Uber,123,Brooklyn,Homecrest,49990,49619,371,0.742,3.7,5.117,7.15,9.083,3_adequate
+Uber,77,Brooklyn,East New York/Pennsylvania Avenue,46627,46215,412,0.884,4.317,6.05,8.667,10.883,3_adequate
+Uber,155,Brooklyn,Marine Park/Mill Basin,45576,45162,414,0.908,4.283,6.05,8.65,10.933,3_adequate
+Uber,21,Brooklyn,Bensonhurst East,43924,43582,342,0.779,3.767,5.183,7.5,9.633,3_adequate
+Uber,227,Brooklyn,Sunset Park East,42358,42043,315,0.744,4.1,5.683,8.05,10.3,3_adequate
+Uber,55,Brooklyn,Coney Island,41745,41209,536,1.284,4.167,5.95,8.633,10.917,3_adequate
+Uber,149,Brooklyn,Madison,38894,38592,302,0.776,3.6,4.95,6.917,8.667,3_adequate
+Uber,40,Brooklyn,Carroll Gardens,33348,33130,218,0.654,3.417,4.75,6.7,8.459,3_adequate
+Uber,217,Brooklyn,South Williamsburg,33055,32828,227,0.687,4.333,6.05,8.483,10.483,3_adequate
+Uber,29,Brooklyn,Brighton Beach,32569,32333,236,0.725,3.767,5.25,7.517,9.483,3_adequate
+Uber,133,Brooklyn,Kensington,30899,30677,222,0.718,3.717,5.117,7.267,9.187,3_adequate
+Uber,67,Brooklyn,Dyker Heights,29915,29688,227,0.759,3.8,5.233,7.422,9.45,3_adequate
+Uber,106,Brooklyn,Gowanus,28581,28406,175,0.612,3.717,5.233,7.283,9.1,3_adequate
+Uber,195,Brooklyn,Red Hook,25840,25630,210,0.813,4.183,5.917,8.6,11.142,3_adequate
+Uber,108,Brooklyn,Gravesend,23356,23147,209,0.895,3.867,5.35,7.617,9.65,3_adequate
+Uber,52,Brooklyn,Cobble Hill,22757,22623,134,0.589,3.2,4.517,6.4,7.95,3_adequate
+Uber,257,Brooklyn,Windsor Terrace,20679,20467,212,1.025,3.55,4.933,6.967,8.85,3_adequate
+Uber,222,Brooklyn,Starrett City,20057,19677,380,1.895,4.7,6.517,9.317,11.567,3_adequate
+Uber,11,Brooklyn,Bath Beach,19036,18874,162,0.851,3.717,5.15,7.383,9.372,3_adequate
+Uber,178,Brooklyn,Ocean Parkway South,16790,16614,176,1.048,3.85,5.25,7.383,9.3,3_adequate
+Uber,150,Brooklyn,Manhattan Beach,16728,16591,137,0.819,3.833,5.45,7.733,9.725,3_adequate
+Uber,34,Brooklyn,Brooklyn Navy Yard,11900,11845,55,0.462,4.183,6.367,9.8,13.55,3_adequate
+Uber,54,Brooklyn,Columbia Street,8142,8089,53,0.651,3.5,4.85,6.92,8.777,3_adequate
+Uber,190,Brooklyn,Prospect Park,6775,6741,34,0.502,3.7,5.3,7.667,9.717,3_adequate
+Uber,154,Brooklyn,Marine Park/Floyd Bennett Field,996,987,9,0.904,5.083,7.692,11.067,13.698,2_small
+Uber,111,Brooklyn,Green-Wood Cemetery,479,479,0,0.0,3.567,5.033,7.277,8.7,2_small
+Uber,230,Manhattan,Times Sq/Theatre District,188888,185586,3302,1.748,3.45,5.583,8.633,11.067,3_adequate
+Uber,161,Manhattan,Midtown Center,186941,185407,1534,0.821,3.517,5.533,8.3,10.483,3_adequate
+Uber,79,Manhattan,East Village,183450,182640,810,0.442,3.217,4.85,7.267,9.233,3_adequate
+Uber,231,Manhattan,TriBeCa/Civic Center,169545,168708,837,0.494,3.3,4.633,6.333,7.7,3_adequate
+Uber,234,Manhattan,Union Sq,164366,163684,682,0.415,3.2,4.75,6.883,8.567,3_adequate
+Uber,68,Manhattan,East Chelsea,157000,155468,1532,0.976,3.167,4.817,7.2,9.217,3_adequate
+Uber,246,Manhattan,West Chelsea/Hudson Yards,154156,153419,737,0.478,3.567,5.333,7.667,9.65,3_adequate
+Uber,164,Manhattan,Midtown South,148319,146589,1730,1.166,3.2,4.867,7.2,9.133,3_adequate
+Uber,148,Manhattan,Lower East Side,140206,139523,683,0.487,3.4,5.217,7.867,10.083,3_adequate
+Uber,48,Manhattan,Clinton East,137403,135545,1858,1.352,3.183,4.733,7.05,9.167,3_adequate
+Uber,249,Manhattan,West Village,135158,134697,461,0.341,3.2,4.75,7.067,8.883,3_adequate
+Uber,42,Manhattan,Central Harlem North,135497,134436,1061,0.783,4.1,5.633,7.9,9.983,3_adequate
+Uber,170,Manhattan,Murray Hill,133438,132163,1275,0.955,3.283,4.767,6.95,8.8,3_adequate
+Uber,237,Manhattan,Upper East Side South,132792,132013,779,0.587,3.15,4.383,5.967,7.2,3_adequate
+Uber,163,Manhattan,Midtown North,124518,123143,1375,1.104,3.167,4.717,6.733,8.367,3_adequate
+Uber,162,Manhattan,Midtown East,121781,120605,1176,0.966,3.267,4.85,6.95,8.633,3_adequate
+Uber,244,Manhattan,Washington Heights South,121258,120209,1049,0.865,3.583,5.0,7.183,9.25,3_adequate
+Uber,236,Manhattan,Upper East Side North,118277,117404,873,0.738,3.433,4.733,6.45,7.817,3_adequate
+Uber,107,Manhattan,Gramercy,113586,112766,820,0.722,3.233,4.65,6.617,8.2,3_adequate
+Uber,74,Manhattan,East Harlem North,107003,106197,806,0.753,4.1,5.767,8.117,10.2,3_adequate
+Uber,144,Manhattan,Little Italy/NoLiTa,101732,101281,451,0.443,3.367,4.883,6.9,8.6,3_adequate
+Uber,142,Manhattan,Lincoln Square East,101907,100882,1025,1.006,3.283,4.633,6.55,8.1,3_adequate
+Uber,90,Manhattan,Flatiron,101616,100771,845,0.832,2.983,4.367,6.417,8.033,3_adequate
+Uber,75,Manhattan,East Harlem South,100685,99729,956,0.949,3.967,5.6,7.883,9.9,3_adequate
+Uber,141,Manhattan,Lenox Hill West,99091,98234,857,0.865,3.433,4.817,6.65,8.167,3_adequate
+Uber,41,Manhattan,Central Harlem,98480,97673,807,0.819,3.967,5.55,7.683,9.6,3_adequate
+Uber,239,Manhattan,Upper West Side South,93832,92789,1043,1.112,3.25,4.5,6.267,7.783,3_adequate
+Uber,114,Manhattan,Greenwich Village South,92626,92366,260,0.281,3.217,4.9,7.4,9.383,3_adequate
+Uber,186,Manhattan,Penn Station/Madison Sq West,92206,91190,1016,1.102,2.967,4.8,7.583,9.933,3_adequate
+Uber,113,Manhattan,Greenwich Village North,89349,88830,519,0.581,3.167,4.583,6.617,8.283,3_adequate
+Uber,140,Manhattan,Lenox Hill East,86707,85909,798,0.92,3.717,5.4,7.8,9.75,3_adequate
+Uber,243,Manhattan,Washington Heights North,86640,85794,846,0.976,3.65,5.033,7.067,8.9,3_adequate
+Uber,211,Manhattan,SoHo,85954,85660,294,0.342,3.133,4.533,6.367,7.8,3_adequate
+Uber,229,Manhattan,Sutton Place/Turtle Bay North,85273,84544,729,0.855,3.183,4.383,6.083,7.567,3_adequate
+Uber,158,Manhattan,Meatpacking/West Village West,84830,84457,373,0.44,3.283,4.717,6.733,8.353,3_adequate
+Uber,100,Manhattan,Garment District,83332,82156,1176,1.411,3.283,5.2,7.9,10.083,3_adequate
+Uber,87,Manhattan,Financial District North,82695,81735,960,1.161,3.533,5.1,7.383,9.183,3_adequate
+Uber,263,Manhattan,Yorkville West,82404,81703,701,0.851,3.567,5.0,6.933,8.567,3_adequate
+Uber,137,Manhattan,Kips Bay,82153,81479,674,0.82,3.467,5.033,7.183,9.1,3_adequate
+Uber,233,Manhattan,UN/Turtle Bay South,79150,78305,845,1.068,3.35,4.717,6.6,8.083,3_adequate
+Uber,238,Manhattan,Upper West Side North,77804,76801,1003,1.289,3.417,4.733,6.633,8.283,3_adequate
+Uber,143,Manhattan,Lincoln Square West,75110,74365,745,0.992,3.417,4.717,6.55,8.0,3_adequate
+Uber,50,Manhattan,Clinton West,73951,73318,633,0.856,3.4,4.75,6.717,8.433,3_adequate
+Uber,116,Manhattan,Hamilton Heights,71060,70455,605,0.851,3.8,5.2,7.283,9.233,3_adequate
+Uber,13,Manhattan,Battery Park City,67017,66572,445,0.664,3.733,5.45,7.633,9.4,3_adequate
+Uber,232,Manhattan,Two Bridges/Seward Park,60145,59535,610,1.014,4.35,6.233,8.8,11.067,3_adequate
+Uber,166,Manhattan,Morningside Heights,59628,59071,557,0.934,3.383,4.683,6.483,8.067,3_adequate
+Uber,127,Manhattan,Inwood,57034,56599,435,0.763,3.417,4.783,6.9,8.883,3_adequate
+Uber,125,Manhattan,Hudson Sq,55365,54957,408,0.737,3.25,4.7,6.45,7.85,3_adequate
+Uber,261,Manhattan,World Trade Center,53607,53029,578,1.078,3.75,5.517,7.9,9.9,3_adequate
+Uber,262,Manhattan,Yorkville East,52580,51956,624,1.187,3.9,5.467,7.533,9.3,3_adequate
+Uber,4,Manhattan,Alphabet City,44360,43978,382,0.861,4.05,5.683,8.117,10.267,3_adequate
+Uber,151,Manhattan,Manhattan Valley,43858,43272,586,1.336,3.567,4.917,6.883,8.583,3_adequate
+Uber,45,Manhattan,Chinatown,36542,36271,271,0.742,3.833,5.517,7.85,9.817,3_adequate
+Uber,152,Manhattan,Manhattanville,33264,32989,275,0.827,3.85,5.333,7.417,9.4,3_adequate
+Uber,88,Manhattan,Financial District South,32982,32703,279,0.846,3.617,5.342,7.733,9.667,3_adequate
+Uber,224,Manhattan,Stuy Town/Peter Cooper Village,28828,28446,382,1.325,4.183,5.8,8.083,9.967,3_adequate
+Uber,209,Manhattan,Seaport,28709,28423,286,0.996,3.85,5.45,7.717,9.667,3_adequate
+Uber,24,Manhattan,Bloomingdale,20702,20461,241,1.164,3.517,4.8,6.617,8.35,3_adequate
+Uber,43,Manhattan,Central Park,19013,18895,118,0.621,3.317,4.983,7.117,8.833,3_adequate
+Uber,153,Manhattan,Marble Hill,15494,15426,68,0.439,3.75,5.317,7.417,9.267,3_adequate
+Uber,202,Manhattan,Roosevelt Island,9522,9292,230,2.415,5.183,7.533,10.4,12.674,3_adequate
+Uber,128,Manhattan,Inwood Hill Park,4398,4383,15,0.341,3.3,4.683,6.73,8.415,3_adequate
+Uber,194,Manhattan,Randalls Island,1624,1596,28,1.724,5.75,8.571,12.917,16.046,3_adequate
+Uber,120,Manhattan,Highbridge Park,1550,1534,16,1.032,3.8,5.379,7.918,10.317,3_adequate
+Uber,12,Manhattan,Battery Park,1254,1249,5,0.399,3.25,4.967,7.223,8.763,3_adequate
+Uber,132,Queens,JFK Airport,294660,294580,80,0.027,7.233,10.233,13.7,17.05,3_adequate
+Uber,138,Queens,LaGuardia Airport,270895,270249,646,0.238,5.583,7.917,10.683,13.367,3_adequate
+Uber,7,Queens,Astoria,143106,142262,844,0.59,3.183,4.45,6.383,8.233,3_adequate
+Uber,129,Queens,Jackson Heights,121173,120488,685,0.565,3.8,5.333,7.583,9.5,3_adequate
+Uber,145,Queens,Long Island City/Hunters Point,118253,117601,652,0.551,3.333,4.733,6.817,8.75,3_adequate
+Uber,130,Queens,Jamaica,117801,117122,679,0.576,4.017,5.85,8.5,10.8,3_adequate
+Uber,82,Queens,Elmhurst,115076,114433,643,0.559,3.75,5.283,7.483,9.483,3_adequate
+Uber,216,Queens,South Ozone Park,103300,102564,736,0.712,3.567,5.15,7.5,9.6,3_adequate
+Uber,95,Queens,Forest Hills,102256,101342,914,0.894,3.917,5.45,7.65,9.633,3_adequate
+Uber,198,Queens,Ridgewood,97529,96879,650,0.666,3.85,5.417,7.783,9.917,3_adequate
+Uber,226,Queens,Sunnyside,91162,90704,458,0.502,3.567,4.967,7.017,8.95,3_adequate
+Uber,92,Queens,Flushing,85066,84229,837,0.984,4.017,5.9,8.7,11.1,3_adequate
+Uber,223,Queens,Steinway,74204,73788,416,0.561,3.3,4.571,6.517,8.417,3_adequate
+Uber,197,Queens,Richmond Hill,68948,68346,602,0.873,4.0,5.65,8.167,10.25,3_adequate
+Uber,260,Queens,Woodside,67846,67486,360,0.531,3.317,4.65,6.617,8.483,3_adequate
+Uber,205,Queens,Saint Albans,65240,64673,567,0.869,4.6,6.583,9.317,11.717,3_adequate
+Uber,258,Queens,Woodhaven,53632,53094,538,1.003,4.15,5.783,8.217,10.317,3_adequate
+Uber,179,Queens,Old Astoria,53417,53069,348,0.651,3.5,4.9,6.85,8.717,3_adequate
+Uber,10,Queens,Baisley Park,49193,48548,645,1.311,4.133,5.85,8.333,10.567,3_adequate
+Uber,56,Queens,Corona,48881,48487,394,0.806,4.05,5.517,7.783,9.8,3_adequate
+Uber,215,Queens,South Jamaica,48290,47835,455,0.942,4.367,6.183,8.783,10.967,3_adequate
+Uber,191,Queens,Queens Village,46406,45898,508,1.095,4.283,6.117,8.917,11.083,3_adequate
+Uber,157,Queens,Maspeth,43491,43241,250,0.575,4.05,5.75,8.483,10.75,3_adequate
+Uber,173,Queens,North Corona,40222,39964,258,0.641,4.317,5.967,8.35,10.367,3_adequate
+Uber,196,Queens,Rego Park,39667,39290,377,0.95,3.917,5.417,7.633,9.659,3_adequate
+Uber,28,Queens,Briarwood/Jamaica Hills,39300,38938,362,0.921,3.983,5.467,7.8,9.933,3_adequate
+Uber,83,Queens,Elmhurst/Maspeth,37957,37729,228,0.601,3.783,5.3,7.517,9.617,3_adequate
+Uber,102,Queens,Glendale,37531,37197,334,0.89,4.083,5.817,8.483,10.767,3_adequate
+Uber,86,Queens,Far Rockaway,37365,36657,708,1.895,6.017,8.917,13.167,16.32,3_adequate
+Uber,146,Queens,Long Island City/Queens Plaza,36628,36270,358,0.977,3.167,4.433,6.55,8.526,3_adequate
+Uber,134,Queens,Kew Gardens,35072,34734,338,0.964,3.767,5.4,7.778,9.883,3_adequate
+Uber,160,Queens,Middle Village,34622,34303,319,0.921,4.083,5.633,7.9,9.933,3_adequate
+Uber,121,Queens,Hillcrest/Pomonok,34349,33969,380,1.106,4.05,5.633,8.05,10.3,3_adequate
+Uber,171,Queens,Murray Hill-Queens,32991,32683,308,0.934,3.717,5.217,7.483,9.533,3_adequate
+Uber,70,Queens,East Elmhurst,32775,32476,299,0.912,3.883,5.417,7.583,9.4,3_adequate
+Uber,218,Queens,Springfield Gardens North,32243,31928,315,0.977,4.483,6.283,8.85,11.0,3_adequate
+Uber,16,Queens,Bayside,31938,31582,356,1.115,3.883,5.617,8.1,10.367,3_adequate
+Uber,203,Queens,Rosedale,30949,30723,226,0.73,5.367,7.7,10.8,13.333,3_adequate
+Uber,139,Queens,Laurelton,30889,30658,231,0.748,4.5,6.283,9.067,11.283,3_adequate
+Uber,219,Queens,Springfield Gardens South,29632,29349,283,0.955,4.833,6.7,9.317,11.717,3_adequate
+Uber,135,Queens,Kew Gardens Hills,27205,26900,305,1.121,4.017,5.5,7.867,9.883,3_adequate
+Uber,180,Queens,Ozone Park,26869,26673,196,0.729,3.9,5.5,7.7,9.65,3_adequate
+Uber,117,Queens,Hammels/Arverne,25861,25353,508,1.964,6.333,9.55,13.95,17.2,3_adequate
+Uber,124,Queens,Howard Beach,24281,23977,304,1.252,4.65,6.567,9.167,11.567,3_adequate
+Uber,131,Queens,Jamaica Estates,24003,23750,253,1.054,3.917,5.483,7.867,9.917,3_adequate
+Uber,53,Queens,College Point,23578,23327,251,1.065,4.483,6.467,9.423,12.05,3_adequate
+Uber,193,Queens,Queensbridge/Ravenswood,20904,20715,189,0.904,3.7,5.183,7.6,10.055,3_adequate
+Uber,252,Queens,Whitestone,20795,20511,284,1.366,4.55,6.3,9.15,11.558,3_adequate
+Uber,192,Queens,Queensboro Hill,19960,19806,154,0.772,3.683,5.167,7.5,9.446,3_adequate
+Uber,38,Queens,Cambria Heights,19537,19347,190,0.973,4.3,6.267,9.2,11.345,3_adequate
+Uber,122,Queens,Hollis,18826,18578,248,1.317,4.3,6.2,8.933,11.286,3_adequate
+Uber,73,Queens,East Flushing,18034,17877,157,0.871,3.9,5.4,7.667,9.733,3_adequate
+Uber,101,Queens,Glen Oaks,14922,14636,286,1.917,4.517,6.8,10.0,12.617,3_adequate
+Uber,98,Queens,Fresh Meadows,14811,14621,190,1.283,4.217,5.883,8.45,10.7,3_adequate
+Uber,19,Queens,Bellerose,14515,14368,147,1.013,4.433,6.283,8.9,11.217,3_adequate
+Uber,9,Queens,Auburndale,13875,13665,210,1.514,3.85,5.367,7.717,9.7,3_adequate
+Uber,175,Queens,Oakland Gardens,12030,11817,213,1.771,4.283,6.0,8.583,10.867,3_adequate
+Uber,15,Queens,Bay Terrace/Fort Totten,11058,10879,179,1.619,4.833,6.717,9.667,12.418,3_adequate
+Uber,64,Queens,Douglaston,10520,10281,239,2.272,5.25,7.5,10.717,13.317,3_adequate
+Uber,201,Queens,Rockaway Park,9691,9442,249,2.569,6.017,9.533,14.05,17.015,3_adequate
+Uber,93,Queens,Flushing Meadows-Corona Park,4965,4943,22,0.443,4.167,5.933,8.733,11.13,3_adequate
+Uber,57,Queens,Corona,3477,3454,23,0.661,4.35,5.846,8.178,10.389,3_adequate
+Uber,96,Queens,Forest Park/Highland Park,1700,1687,13,0.765,4.133,5.992,8.463,10.373,3_adequate
+Uber,30,Queens,Broad Channel,791,778,13,1.643,7.95,11.983,17.087,20.71,2_small
+Uber,207,Queens,Saint Michaels Cemetery/Woodside,592,590,2,0.338,3.692,5.35,7.523,10.203,2_small
+Uber,27,Queens,Breezy Point/Fort Tilden/Riis Beach,527,491,36,6.831,9.117,13.208,17.533,22.008,2_small
+Uber,253,Queens,Willets Point,314,313,1,0.318,5.117,7.583,10.253,12.603,2_small
+Uber,8,Queens,Astoria Park,261,259,2,0.766,3.617,4.633,6.16,7.768,2_small
+Uber,2,Queens,Jamaica Bay,21,21,0,0.0,9.183,11.65,13.567,13.633,1_very_small
+Uber,206,Staten Island,Saint George/New Brighton,31850,31534,316,0.992,4.717,7.133,10.8,13.717,3_adequate
+Uber,23,Staten Island,Bloomfield/Emerson Hill,25091,24716,375,1.495,5.267,7.85,11.533,14.15,3_adequate
+Uber,156,Staten Island,Mariners Harbor,21956,21713,243,1.107,4.8,6.983,10.367,13.233,3_adequate
+Uber,221,Staten Island,Stapleton,21815,21521,294,1.348,4.967,7.333,10.683,13.467,3_adequate
+Uber,118,Staten Island,Heartland Village/Todt Hill,16155,15890,265,1.64,5.35,7.95,11.7,14.459,3_adequate
+Uber,214,Staten Island,South Beach/Dongan Hills,13928,13699,229,1.644,4.583,6.833,10.267,12.917,3_adequate
+Uber,115,Staten Island,Grymes Hill/Clifton,13091,12889,202,1.543,5.517,7.967,11.6,14.167,3_adequate
+Uber,251,Staten Island,Westerleigh,12264,12055,209,1.704,4.717,6.7,9.717,12.367,3_adequate
+Uber,245,Staten Island,West Brighton,12205,12024,181,1.483,5.1,7.533,10.967,13.5,3_adequate
+Uber,187,Staten Island,Port Richmond,11683,11561,122,1.044,5.017,7.317,10.733,13.55,3_adequate
+Uber,109,Staten Island,Great Kills,11342,11097,245,2.16,5.567,8.283,12.383,15.167,3_adequate
+Uber,172,Staten Island,New Dorp/Midland Beach,10496,10334,162,1.543,5.15,7.667,11.667,14.3,3_adequate
+Uber,6,Staten Island,Arrochar/Fort Wadsworth,9382,9241,141,1.503,4.767,6.9,10.1,12.9,3_adequate
+Uber,84,Staten Island,Eltingville/Annadale/Prince's Bay,7550,7391,159,2.106,5.617,8.133,11.933,14.717,3_adequate
+Uber,44,Staten Island,Charleston/Tottenville,7297,7170,127,1.74,6.133,9.233,13.785,16.6,3_adequate
+Uber,176,Staten Island,Oakwood,5728,5566,162,2.828,5.517,8.029,11.542,14.55,3_adequate
+Uber,5,Staten Island,Arden Heights,4650,4508,142,3.054,5.75,8.2,12.005,14.317,3_adequate
+Uber,204,Staten Island,Rossville/Woodrow,4495,4379,116,2.581,5.467,7.967,12.067,14.802,3_adequate
+Uber,99,Staten Island,Freshkills Park,340,340,0,0.0,6.192,8.804,12.807,14.462,2_small
+Uber,110,Staten Island,Great Kills Park,17,17,0,0.0,4.95,6.417,12.243,13.417,1_very_small

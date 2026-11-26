@@ -1,0 +1,6 @@
+min_n,uber_share_valid_pct,lyft_share_valid_pct,diff_share_valid_pts,uber_share_if_excluded_short_pct,uber_share_if_excluded_long_pct,lyft_share_if_excluded_short_pct,lyft_share_if_excluded_long_pct,diff_lower_bound_pts,diff_upper_bound_pts
+1000,5.124,4.723,-0.401,5.082,5.867,4.636,6.181,-1.231,1.099
+500,5.186,4.757,-0.429,5.143,5.925,4.671,6.191,-1.253,1.049
+300,5.233,4.807,-0.426,5.189,5.972,4.721,6.236,-1.251,1.047
+200,5.26,4.835,-0.425,5.215,5.999,4.748,6.264,-1.251,1.048
+100,5.298,4.874,-0.424,5.253,6.039,4.785,6.303,-1.254,1.05

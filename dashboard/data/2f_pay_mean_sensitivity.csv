@@ -1,0 +1,3 @@
+company,n,mean_all,median,mean_trimmed_1_99,mean_positive_pay_only,max_pay,pct_of_total_pay_from_top_1pct_trips,pct_of_trips_in_top_1pct
+Uber,15356455,18.937,14.16,18.119,18.943,994.2,5.63,1.0
+Lyft,5049211,17.781,13.32,17.07,17.781,525.53,5.56,1.0

@@ -1,0 +1,26 @@
+design,pu_borough,n_zones,n_cells,n_adequate_cells,zones_with_adequate_cell,valid_rows,pct_valid_rows_in_adequate_cells
+A zone x weekday x hour,Bronx,43,7058,150,15,2565850.0,6.82
+A zone x weekday x hour,Brooklyn,61,10216,1531,30,5407640.0,41.1
+A zone x weekday x hour,Manhattan,67,11050,2710,49,7704238.0,53.1
+A zone x weekday x hour,Queens,69,11334,830,19,4223481.0,33.76
+A zone x weekday x hour,Staten Island,20,3184,0,0,303909.0,
+B zone x hour,Bronx,43,1011,784,36,2565850.0,96.43
+B zone x hour,Brooklyn,61,1464,1180,57,5407640.0,97.45
+B zone x hour,Manhattan,67,1588,1363,61,7704238.0,98.82
+B zone x hour,Queens,69,1645,1098,57,4223481.0,94.65
+B zone x hour,Staten Island,20,472,91,10,303909.0,46.4
+C zone x daypart x day type,Bronx,43,423,366,39,2565850.0,99.15
+C zone x daypart x day type,Brooklyn,61,610,554,59,5407640.0,99.49
+C zone x daypart x day type,Manhattan,67,663,609,63,7704238.0,99.76
+C zone x daypart x day type,Queens,69,686,552,62,4223481.0,98.79
+C zone x daypart x day type,Staten Island,20,197,96,18,303909.0,84.21
+D zone x daypart,Bronx,43,213,191,39,2565850.0,99.55
+D zone x daypart,Brooklyn,61,305,292,59,5407640.0,99.92
+D zone x daypart,Manhattan,67,333,314,64,7704238.0,99.92
+D zone x daypart,Queens,69,345,306,63,4223481.0,99.76
+D zone x daypart,Staten Island,20,100,83,18,303909.0,98.31
+E zone (all hours),Bronx,43,43,42,42,2565850.0,100.0
+E zone (all hours),Brooklyn,61,61,60,60,5407640.0,99.99
+E zone (all hours),Manhattan,67,67,66,66,7704238.0,100.0
+E zone (all hours),Queens,69,69,64,64,4223481.0,99.95
+E zone (all hours),Staten Island,20,20,18,18,303909.0,99.85

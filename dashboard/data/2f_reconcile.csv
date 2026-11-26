@@ -1,0 +1,4 @@
+company,n_rows,n_five_borough,n_pay_null,n_pay_negative,n_pay_zero,n_pay_positive,n_zero_miles,n_zero_time,n_in_pay_per_mile,n_in_pay_per_minute,n_valid_wait,n_valid_wait_and_ppm,n_valid_wait_and_ppmin,n_fare_negative,n_pay_gt_fare
+Uber,15356455,15355926,0,313,4225,15351917,2398,4,15354057,15356451,15235488,15233331,15235485,2393,2358327
+Lyft,5049211,5048966,0,0,0,5049211,208,0,5049003,5049211,4970390,4970199,4970390,34,318745
+All,20405666,20404892,0,313,4225,20401128,2606,4,20403060,20405662,20205878,20203530,20205875,2427,2677072

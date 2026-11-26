@@ -1,0 +1,39 @@
+
+cat > .gitignore <<'EOF'
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Large raw/intermediate data
+*.parquet
+
+# Local databases and temporary files
+*.duckdb
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.tmp
+
+# Editor / OS temporary files
+.vscode/
+.idea/
+*.swp
+*~
+EOF
+.~*

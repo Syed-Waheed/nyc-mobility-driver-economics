@@ -1,0 +1,21 @@
+metric,company,denominator_bucket,n,ratio_p50,ratio_p99,ratio_max
+pay_per_mile,Uber,1_<0.1 mi,3098,108.0,2101.07,7110.0
+pay_per_mile,Uber,2_0.1-<0.25 mi,12824,23.529,137.348,535.95
+pay_per_mile,Uber,3_0.25-<0.5 mi,180156,11.735,46.25,361.39
+pay_per_mile,Uber,4_0.5-<1 mi,1556487,6.963,24.736,272.49
+pay_per_mile,Uber,5_1+ mi,13601492,4.365,12.179,82.79
+pay_per_mile,Lyft,1_<0.1 mi,292,195.357,5256.8,5470.0
+pay_per_mile,Lyft,2_0.1-<0.25 mi,4058,26.946,124.993,220.95
+pay_per_mile,Lyft,3_0.25-<0.5 mi,65981,13.181,43.28,225.57
+pay_per_mile,Lyft,4_0.5-<1 mi,548526,7.453,20.945,99.96
+pay_per_mile,Lyft,5_1+ mi,4430146,4.49,10.609,83.86
+pay_per_minute,Uber,1_<0.5 min,161,16.0,240.0,270.6
+pay_per_minute,Uber,2_0.5-<1 min,901,4.706,33.319,70.2
+pay_per_minute,Uber,3_1-<2 min,21470,2.587,9.978,67.16
+pay_per_minute,Uber,4_2-<5 min,817352,1.189,4.294,33.1
+pay_per_minute,Uber,5_5+ min,14516567,0.916,2.129,21.55
+pay_per_minute,Lyft,1_<0.5 min,162,328.2,1228.2,1378.2
+pay_per_minute,Lyft,2_0.5-<1 min,178,6.564,40.587,49.41
+pay_per_minute,Lyft,3_1-<2 min,5046,3.156,10.321,30.47
+pay_per_minute,Lyft,4_2-<5 min,237373,1.351,3.293,16.3
+pay_per_minute,Lyft,5_5+ min,4806452,0.883,1.809,7.47

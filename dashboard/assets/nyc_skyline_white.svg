@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="150" viewBox="0 0 320 150">
+  <title>Generic New York skyline silhouette - white</title>
+  <g fill="#FFFFFF">
+    <path d="M8 128V79h24v49h8V59h22v69h9V93h22v35h10V43h20v85h9V67h13v61h10V20h5V7h4v13h5v108h12V74h17v54h9V91h27v37h11V61h19v67h10v-37h20v37h7v12H8z"/>
+    <path d="M112 43l10-18 10 18z"/>
+    <path d="M210 74l8-13 8 13z"/>
+    <rect x="43" y="72" width="5" height="7" fill="#163B65" opacity=".25"/>
+    <rect x="49" y="72" width="5" height="7" fill="#163B65" opacity=".25"/>
+    <rect x="43" y="84" width="5" height="7" fill="#163B65" opacity=".25"/>
+    <rect x="49" y="84" width="5" height="7" fill="#163B65" opacity=".25"/>
+    <rect x="116" y="55" width="5" height="7" fill="#163B65" opacity=".25"/>
+    <rect x="123" y="55" width="5" height="7" fill="#163B65" opacity=".25"/>
+    <rect x="116" y="68" width="5" height="7" fill="#163B65" opacity=".25"/>
+    <rect x="123" y="68" width="5" height="7" fill="#163B65" opacity=".25"/>
+  </g>
+</svg>

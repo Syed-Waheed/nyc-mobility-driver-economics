@@ -1,0 +1,6 @@
+design,n_slots,n_cells,n_adequate_cells,valid_rows,pct_valid_rows_in_adequate_cells,zones_with_adequate_cell
+A zone x weekday x hour,168,42842,5221,20205118.0,39.17,113
+B zone x hour,24,6180,4516,20205118.0,96.49,221
+C zone x daypart x day type,10,2579,2177,20205118.0,99.18,241
+D zone x daypart,5,1296,1186,20205118.0,99.81,243
+E zone (all hours),1,260,250,20205118.0,99.98,250
